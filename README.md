@@ -40,6 +40,19 @@ The script generates a CSV file similar to the following:
 
 ---
 
+## 👨‍💻 Author
+
+Created with care and curiosity by **Agustin Gorrin**.
+
+---
+
+## 📫 Contact
+
+- GitHub: [https://github.com/gus12green](https://github.com/gus12green)
+- LinkedIn: [https://linkedin.com/in/agustín-gorrín-santana/](https://linkedin.com/in/agustín-gorrín-santana/)
+
+---
+
 ## ⚖️ Disclaimer
 
 This scraper only collects **publicly available data** from the [official BKT website](https://www.bkt-tires.com/es/es) and **does not bypass any access restrictions**.  
@@ -48,11 +61,3 @@ The purpose of this project is **educational**, intended to demonstrate responsi
 If you are a representative of BKT and wish to have this repository removed or modified, please feel free to contact me, the repository owner.
 
 ---
-
-## 👨‍💻 Author
-
-Created with care and curiosity by **Agustin Gorrin**.
-
----
-   git clone https://github.com/<your-username>/bkt-agricultural-scraper.git
-   cd bkt-agricultural-scraper
